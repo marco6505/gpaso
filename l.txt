@@ -6,5 +6,5 @@ drwxr-xr-x 2 odoodev odoodev 4096 Oct 14 08:23 ctl
 -rw-r--r-- 1 odoodev odoodev   69 Oct 14 08:23 list.txt
 -rw-r--r-- 1 odoodev odoodev    0 Oct 14 08:36 l.txt
 drwxr-xr-x 2 odoodev odoodev 4096 Oct 14 08:23 model
--rw-r--r-- 1 odoodev odoodev   88 Oct 14 08:23 README.txt
+-rw-r--r-  1 odoodev odoodev   88 Oct 14 08:23 README.txt
 drwxr-xr-x 2 odoodev odoodev 4096 Oct 14 08:23 view
